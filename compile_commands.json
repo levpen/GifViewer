@@ -1,0 +1,15 @@
+[
+ {
+  "directory": "C:\\Users\\user\\Documents\\Project\\GifPlayer",
+  "arguments": [
+   "g++",
+   "main.cpp",
+   "-Iinclude",
+   "-Llib",
+   "-lraylib",
+   "-lgdi32",
+   "-lwinmm"
+  ],
+  "file": "main.cpp"
+ }
+]
